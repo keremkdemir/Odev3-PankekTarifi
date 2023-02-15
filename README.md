@@ -1,1 +1,2 @@
-# Odev3-PankekTarifi
+# Odev3
+PankekTarifi
